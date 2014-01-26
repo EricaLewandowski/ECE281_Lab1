@@ -40,7 +40,7 @@ end Lab1_Lewandowski;
 
 architecture Behavioral of Lab1_Lewandowski is
 
-signal A_NOT, B_NOT, C_NOT,E,F,G,H,I,J,K,X,Y,Z : STD_LOGIC;
+signal A_NOT, B_NOT, C_NOT,E,F,G,H,I,J,K : STD_LOGIC;
 
 begin
 
