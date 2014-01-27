@@ -19,3 +19,11 @@ ECE281_Lab1
 
 The tests came from the truth table and the Karnaugh maps. After determining the minterm 
 values and equations, the schematics were designed to fit the truth table. 
+
+#Demos
+1. Lab Notebook 
+2. 3 bit test
+3. 8 bit test
+ 
+
+
