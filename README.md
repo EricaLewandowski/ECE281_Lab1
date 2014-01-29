@@ -29,4 +29,7 @@ values and equations, the schematics were designed to fit the truth table. There
 
 Debugging and testing the 3 bit section was not that difficult. The prelab exercises helped remove any errors ahead of time. The 8 bit section however gave me some trouble. I had some syntax errors to deal with in addition to silly mistakes. In the end, both sections functioned properly. 
 
+#Documentation & Comments
+
+I received a lot of help in EI fro Dr Neebel because I was sick. I also had trouble uploading the .ucf file for the 3 bit section. If it isn't in the repository, my efforts probably failed. 
 
