@@ -31,5 +31,5 @@ Debugging and testing the 3 bit section was not that difficult. The prelab exerc
 
 #Documentation & Comments
 
-I received a lot of help in EI fro Dr Neebel because I was sick. I also had trouble uploading the .ucf file for the 3 bit section. If it isn't in the repository, my efforts probably failed. 
+I received a lot of help in EI fro Dr Neebel because I was sick. I also had trouble uploading the .ucf file for the 3 bit section. Josh Hayden helped me upload the file to GitHub. 
 
