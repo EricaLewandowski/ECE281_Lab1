@@ -23,7 +23,7 @@ values and equations, the schematics were designed to fit the truth table. There
 #Demos
 1. Lab Notebook - Yes
 2. 3 bit test - Yes
-3. 8 bit test
+3. 8 bit test - Yes
  
 #Debugging and Testing
 
